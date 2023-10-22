@@ -1,3 +1,7 @@
+### Stuff
+
+I didn't see any requirements for screenshots or anything on this prep assignment so here is the submission text as described below...
+
 ## Submission Instructions
 
 1. Create a new blank Google Doc. Include above assignment submission text and images within this Google Doc.
