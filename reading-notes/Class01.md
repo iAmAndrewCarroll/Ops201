@@ -25,3 +25,21 @@ If System Restore did not resolve the issue, you have a couple of options:
 **resources**
 
 [System Restore Article](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
+
+### I wanted to know more about VM and Snapshots over doing a system restore so I asked ChatGPT.
+
+**Advantages of VM Snapshots Over System Restore**
+
+**1. Whole Environment**
+- Snapshots capture the entire VM state, not just the Windows operating system.
+
+**2. Speed**
+- Generally, restoring from a snapshot can be faster than using Windows System Restore.
+
+**3. Flexibility**
+- You can take snapshots frequently and manage them independently of the Windows environment.
+
+**4. Isolation**
+- Since snapshots are managed through the VM software, they are not affected by issues within the Windows environment.
+
+In summary, if you're running Windows on a VM and you have taken a snapshot, restoring the snapshot could be a more efficient way to revert to a previous state compared to using Windows System Restore.
