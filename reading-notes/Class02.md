@@ -19,3 +19,7 @@
 **Question 5: Bash scripting allows for customization, automation, and efficiency. Discuss methods or practices from your previous work experience or cultural background that aim to achieve similar goals in daily tasks.**
 - In a post office you have a lot of mailbox turnover.  You could use Bash scripting to automate in and outbound customers.  
 
+**resources**
+
+[What Is Bash Article](https://opensource.com/resources/what-bash)
+
