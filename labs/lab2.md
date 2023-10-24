@@ -6,3 +6,5 @@
 **Part 2 - VS Code SSH**
 ![vs code ssh](media/vscode.png)
 
+**Part 3 - GitHub**
+
