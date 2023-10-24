@@ -1,5 +1,7 @@
 ## Windows System Restore Q&A
 
+![Backup Visual](/labs/media/backup.png)
+
 ### 1. What is the purpose of the Windows System Restore tool?
 
 The purpose of the Windows System Restore tool is to revert the operating system to a previous software, registry, and driver configuration known as a restore point. This can be extremely useful for resolving major issues that may arise.
