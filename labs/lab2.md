@@ -7,4 +7,4 @@
 ![vs code ssh](media/vscode.png)
 
 **Part 3 - GitHub**
-
+![remote vs code](media/remotevscode.png)
