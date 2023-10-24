@@ -8,6 +8,7 @@
 # Declaration of variables
 my_variable="Hello World!"
 perfection="I am working perfectly.  Thank the Maker."
+
 # Declaration of functions
 
 
