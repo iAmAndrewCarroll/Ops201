@@ -6,7 +6,7 @@
 # Purpose:                      Ops201 Challenge 02
 
 # Declaration of variables
-my_variable="Hello World!"
+greeting="Hello World!"
 perfection="I am working perfectly.  Thank the Maker."
 
 # Declaration of functions
@@ -14,7 +14,7 @@ perfection="I am working perfectly.  Thank the Maker."
 
 # Main
 
-echo $my_variable
+echo $greeting
 echo $perfection
 
 # End
