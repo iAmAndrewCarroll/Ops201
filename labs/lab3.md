@@ -39,3 +39,5 @@ Create Bob's Shortcut:
 ![Ticket Closed](media/lab3a.png)
 
 I deleted the VM prior to seeing the submission instructions that I may need more screenshots.  However, this screenshot is as comprehensive as it gets.
+
+Lets break all of this stuff....
