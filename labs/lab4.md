@@ -6,6 +6,8 @@
 
 Michelle Garcia writes: “Hey all, I’m having trouble with Audacity today. It doesn’t launch correctly. I need to import the audio-project file on my Desktop into Audacity for editing, but I’m stuck.”
 ![Michelle's Ticket](media/michelle.png)
+![Michelle's Ticket](media/michelle2.png)
+![Michelle's Ticket](media/audacity.png)
 
 **Ticket 2: Jorge’s Backup Drive**
 
