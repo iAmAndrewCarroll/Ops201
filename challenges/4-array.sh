@@ -20,8 +20,3 @@ done
 for ((i=0; i<${#dirs[0]}; i++)); do
   touch "${dirs[i]}/scriptfile.txt"
 done
-
-# proof that the .txt files are created:
-# for dir in "${dirs[0]}"; do
-#   echo "${dirs[i]}/scriptfile.txt"
-# done
