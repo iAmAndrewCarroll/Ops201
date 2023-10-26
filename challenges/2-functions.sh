@@ -9,7 +9,7 @@
 
 # Basic function
 login_history () {
-  last | head -3 # last five logins
+  last | head -3 # last three logins
   echo this is the login history 
 }
 
