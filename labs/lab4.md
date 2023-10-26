@@ -8,6 +8,7 @@ Michelle Garcia writes: “Hey all, I’m having trouble with Audacity today. It
 ![Michelle's Ticket](media/michelle.png)
 ![Michelle's Ticket](media/michelle2.png)
 ![Michelle's Ticket](media/audacity.png)
+![admin logged in via rdp importing michelle project](media/adminMichelle.png)
 
 **Ticket 2: Jorge’s Backup Drive**
 
