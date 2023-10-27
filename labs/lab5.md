@@ -61,7 +61,7 @@ sudo apt-get intstall samba
 turn on file and printer sharing in Windows Settings (search share)
 
 Mount the drive via command prompt
-`net use S: \\127.0.0.1\sambashare /user:fileserv fileserv /persistent:yes`
+`net use S: \\10.0.2.4\sambashare /user:fileserv fileserv /persistent:yes`
 
 This was a brutal lab that caused a lot of friction.
 
