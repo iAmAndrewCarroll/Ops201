@@ -41,7 +41,7 @@ get_name() {
       echo "'$dir-name' already exists."
     else
       # does user want to create the directory?
-      read -p "'$dir_name' not in list.  Do you want to add it? (yes/no): " add_dir
+      read -p "'$dir_name' not in list.  Do you want to add it? (y/n): " add_dir
 
       if [ "$add_dir" == "y" ] || [ "$add_dir" == "yes" ]; then
         # add to array
@@ -80,7 +80,7 @@ while true; do
 done
 
 # print array
-read -p "Want to view your completed array? (yes/no): " show_array
+read -p "Want to view your completed array? (y/n): " show_array
 if [ "$show_array" == "y" ] || [ "$show_array" == "yes" ]; then
   echo "Here is your completed array: "
   echo "${dirs[@]}"
