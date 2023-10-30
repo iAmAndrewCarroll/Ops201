@@ -3,7 +3,7 @@
 # Script:                     Login History  
 # Author:                     Andrew Carroll  
 # Date of latest revision:    10/25/2024  
-# Purpose:                    Ops 201 Challenge 02
+# Purpose:                    Ops 201 Challenge 04
 
 # create four directories
 # mkdir dir1 dir2 dir3 dir4

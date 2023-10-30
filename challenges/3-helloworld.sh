@@ -3,7 +3,7 @@
 # Script Name:                  Hello World
 # Author:                       Andrew Carroll
 # Date of latest revision:      10/24/2023
-# Purpose:                      Ops201 Challenge 02
+# Purpose:                      Ops201 Challenge 03
 
 # Declaration of variables
 greeting="Hello World!"
