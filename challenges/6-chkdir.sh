@@ -2,7 +2,7 @@
 
 # Script:                     Login History  
 # Author:                     Andrew Carroll  
-# Date of latest revision:    10/25/2024  
+# Date of latest revision:    10/30/2024  
 # Purpose:                    Ops 201 Challenge 06
 
 # define array and dir names
