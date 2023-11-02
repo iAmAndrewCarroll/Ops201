@@ -41,7 +41,14 @@ You are to follow the SOP: [New Employee Computer and Email Configuration.](http
 ![lab9-6](media/lab9-6.png)
 ![lab9-7](media/lab9-7.png)
 
+**Welcome Email**
 
+Dwight,
+
+Welcome to the team.  Great stuff.  
+
+Regards,
+The Team
 
 
 
