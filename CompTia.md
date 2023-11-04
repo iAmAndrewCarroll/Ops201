@@ -1,1 +1,1 @@
-![Comptia Payment to Code Fellows](media/comptiapmt.png)
+![Comptia Payment to Code Fellows](media/comptiapmt.jpg)
