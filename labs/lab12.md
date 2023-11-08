@@ -16,5 +16,7 @@ Proof I did the things:
 Behold, the diagram:
 ![lab12-4](media/lab12-4.png)
 
+![lab12-5](media/lab12-5.png)
+
 **resources**
 [pfsense installation and setup](https://www.how2shout.com/how-to/install-pfsense-VirtualBox-linux-vmware-player.html)
